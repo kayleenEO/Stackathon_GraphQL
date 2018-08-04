@@ -1,0 +1,142 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "firstName": "Kayleen",
+      "approxAge": 30,
+      "instructorId": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "Holly",
+      "approxAge": 27,
+      "instructorId": "2"
+    },
+    {
+      "id": "3",
+      "firstName": "Evelyn",
+      "approxAge": 27,
+      "instructorId": "1"
+    },
+    {
+      "id": "4",
+      "firstName": "Jessica",
+      "approxAge": 27,
+      "instructorId": "2"
+    },
+    {
+      "id": "5",
+      "firstName": "Chris",
+      "approxAge": 27,
+      "instructorId": "1"
+    },
+    {
+      "id": "6",
+      "firstName": "Jan",
+      "approxAge": 27,
+      "instructorId": "2"
+    },
+    {
+      "id": "7",
+      "firstName": "Josh",
+      "approxAge": 27,
+      "instructorId": "1"
+    },
+    {
+      "id": "8",
+      "firstName": "Brendan",
+      "approxAge": 27,
+      "instructorId": "2"
+    },
+    {
+      "id": "9",
+      "firstName": "Brandon",
+      "approxAge": 27,
+      "instructorId": "1"
+    },
+    {
+      "id": "10",
+      "firstName": "Jeff",
+      "approxAge": 27,
+      "instructorId": "2"
+    },
+    {
+      "id": "11",
+      "firstName": "Patrick",
+      "approxAge": 27,
+      "instructorId": "1"
+    },
+    {
+      "id": "12",
+      "firstName": "Michael",
+      "approxAge": 27,
+      "instructorId": "2"
+    },
+    {
+      "id": "13",
+      "firstName": "Matt",
+      "approxAge": 27,
+      "instructorId": "1"
+    },
+    {
+      "id": "14",
+      "firstName": "Raymond",
+      "approxAge": 27,
+      "instructorId": "2"
+    },
+    {
+      "id": "15",
+      "firstName": "Zohaib",
+      "approxAge": 27,
+      "instructorId": "1"
+    },
+    {
+      "id": "16",
+      "firstName": "Brad",
+      "approxAge": 27,
+      "instructorId": "2"
+    },
+    {
+      "id": "17",
+      "firstName": "Bradley",
+      "approxAge": 27,
+      "instructorId": "1"
+    },
+    {
+      "id": "18",
+      "firstName": "Jacoby",
+      "approxAge": 27,
+      "instructorId": "2"
+    },
+    {
+      "id": "19",
+      "firstName": "Kevin",
+      "approxAge": 27,
+      "instructorId": "1"
+    },
+    {
+      "id": "20",
+      "firstName": "Eliot",
+      "approxAge": 27,
+      "instructorId": "2"
+    },
+    {
+      "id": "21",
+      "firstName": "Jerry",
+      "approxAge": 27,
+      "instructorId": "1"
+    }
+  ],
+  "instructors": [
+    {
+      "id": "1",
+      "firstName": "Finn",
+      "approxAge": 30
+    },
+    {
+      "id": "2",
+      "firstName": "Priti",
+      "approxAge": 30
+    }
+  ]
+}
